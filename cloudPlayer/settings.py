@@ -25,7 +25,7 @@ SECRET_KEY = '&g^81z0e_)n^h9)9ym2kg*-6j22_foalvlws%9clacxhe8%)q7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','musicplayer.com']
+ALLOWED_HOSTS = ['127.0.0.1','cloudmusi.herokuapp.com']
 
 
 # Application definition
